@@ -13,3 +13,5 @@ INSERT INTO tipo_responsable (tire_nombre) VALUES ('grupo investigacion');
 INSERT INTO tipo_responsable (tire_nombre) VALUES ('profesor');
 INSERT INTO tipo_responsable (tire_nombre) VALUES ('director de programa');
 INSERT INTO tipo_responsable (tire_nombre) VALUES ('director de departamento');
+
+INSERT INTO paquete (paqu_nombre) VALUES ('HABIVENSI');
